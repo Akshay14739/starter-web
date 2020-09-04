@@ -6,3 +6,6 @@ Sample website with plenty of files for demos
 
 ## For GIT & GitHub
 Demo project for practice
+
+## GIT Comparisons lectures
+Adding comparisons points
